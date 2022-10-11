@@ -1,0 +1,15 @@
+{
+  "name": "strange-project",
+  "version": "0.0.0",
+  "description": "This is a Web Project based on Stranger Things Serie",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "María Pulido Ruda",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,122 @@
+{
+    "seasons": [
+      { 
+        "season": "1", 
+        "director": "Shawn Levy",
+        "date": "July 15, 2016",
+        "chapters": "8",
+        "platform": "Netflix",
+        "description": "At the U.S. Dept. of Energy an unexplained event occurs. Then when a young Dungeons and Dragons playing boy named Will disappears after a night with his friends, his mother Joyce and the town of Hawkins are plunged into darkness.",
+        "poster": "https://static.wikia.nocookie.net/strangerthings/images/b/bc/Stranger_Things_S01_Poster_2.jpg/revision/latest?cb=20170113222410&path-prefix=es"
+       },
+       {
+        "season": "2", 
+        "director":"Shawn Levy",
+        "date": "October 27, 2017",
+        "chapters": "9",
+        "platform": "Netflix",
+        "description": "Fall 1984. With Eleven apparently missing, Joyce and Hopper, along with Nancy, Jonathan and Steve, as well as Mike, Dustin and Lucas, along with California newcomer Max, must join forces to once again help Will after who becomes the target of the Other Side when a large tentacled entity, called the Mind Flayer, attempts to inhabit his body.",
+        "poster": "https://www.movieposterdb.com/stranger-things-spotlight-i11225622/c7cc86cc#&gid=1&pid=1"
+       },
+       {
+        "season": "3", 
+        "director":"Shawn Levy",
+        "date": "July 4, 2019",
+        "chapters": "8",
+        "platform": "Netflix",
+        "description": "In the summer of 1985 in Hawkins, the newly opened Starcourt Mall has become the center of attention in town, causing other stores to close their business due to its popularity. Hopper disapproves of Eleven and Mike's relationship and is feeling separated with Eleven. Joyce considers moving out of Hawkins with her children. And she gets the help of Hopper to investigate the reason behind her magnet losing its magnetism. Will begins having premonitions regarding the Upside Down, despite Eleven having closed the portal, they realize the Mind Flayer is still alive. And it soon takes control of Max's stepbrother Billy Hargrove, leaving Eleven and her friends no choice but to battle him, the other possessed victims, and destroy the Mind Flayer in its new and terrifying form, once and for all.",
+        "poster": "https://xl.movieposterdb.com/20_01/2016/4574334/xl_4574334_a6c22024.jpg?v=2022-10-03%2002:05:31"
+       },
+       {
+        "season": "4", 
+        "director": "Shawn Levy",
+        "date": "May 27, 2022",
+        "chapters":"9",
+        "platform": "Netflix",
+        "description": "Set in March 1986, eight months after the events of the third season, the fourth season is split between different plotlines.The first plotline takes place in Hawkins, where several teenagers are killed in mysterious ways. Eddie Munson, the leader of a Dungeons & Dragons group called the Hellfire Club, becomes the prime murder suspect and is hunted down by the Hawkins High School basketball team, led by Jason Carver, who believe that Eddie killed Jason's girlfriend, Chrissy Cunningham, using satanic powers. Dustin, Max, Lucas, Erica, Nancy, Steve, Robin and Eddie investigate and discover that the murders were carried out by a powerful being that lives in the Upside Down, whom they later dub /Vecna/.The second plotline involves Mike visiting Eleven, Will and Jonathan at their new home in California. Due to the events in Hawkins and the imminent danger to her friends, Eleven goes with Dr. Martin Brenner and Sam Owens to a secret facility to help her regain her powers, while Mike, Will, Jonathan and his friend Argyle try to track her down.The third plotline follows Joyce and Murray Bauman when they learn that Hopper may still be alive and are told to bring money to arrange for his transfer. Meanwhile, Hopper is held in a Soviet prison camp in Kamchatka, where he and the other inmates are forced to battle a Demogorgon that the Russians have captured.",
+        "poster": "https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg"
+       }
+       
+    ],
+    "character": [
+      { 
+        "id": 1, 
+        "name": "Joyce Byers", 
+        "description": "Joyce Byers (portrayed by Winona Ryder[6]) is the mother of Jonathan Byers and Will Byers and is divorced from their father Lonnie Byers. Joyce is a very caring and strong-willed woman who works as a retail clerk at Melvald's General Store in downtown Hawkins. She was born and raised in Hawkins and she attended Hawkins High School with Hopper and Bob",
+        "image": "https://i.pinimg.com/originals/ae/ba/0a/aeba0a419527f0a9067271d659a73e1d.jpg"
+      },
+      {  
+        "id": 2, 
+        "name": "Jim Hopper", 
+        "description": "James /Jim/ Hopper (portrayed by David Harbour[6]) nicknamed /Hop/, is the Hawkins chief of police. Hopper has lived in Hawkins nearly all his life, having attended high school with Joyce and Bob. Hopper divorced after his young daughter Sarah died of cancer, which caused him to lapse into alcoholism. Eventually, he grows to be more responsible, saving Will from the Demogorgon as well as taking Eleven in as his adopted daughter.",
+        "image": "https://static.wikia.nocookie.net/strangerthings8338/images/e/e2/Chief_Hopper_S4.png/revision/latest?cb=20220720183349"
+      },
+      { 
+        "id": 3, 
+        "name": "Mike Wheeler", 
+        "description": "Michael /Mike/ Wheeler (portrayed by Finn Wolfhard[7]) is the son of Karen and Ted Wheeler, younger brother of Nancy and older brother of Holly, and is friends with Lucas, Dustin and Will. Mike is an intelligent and conscientious student who is committed to Lucas, Dustin and Will. In their Dungeons and Dragons party, Mike is their Paladin and usually plays the role of Dungeon Master. He develops feelings for Eleven after taking her in and helping her escape the bad men. Eleven also helps him and his friends find Will. At the end of season one, Mike asks Eleven to the snow ball and they share a kiss. However, the demogorgon appears and Eleven says her goodbyes to Mike as she seemingly dies killing the demogorgon.",
+        "image": "https://static.wikia.nocookie.net/strangerthings/images/0/05/Mike_Wheeler_Temporada_4.png/revision/latest?cb=20220416024326&path-prefix=es"
+    
+      },
+      {  
+        "id": 4, 
+        "name": "Eleven", 
+        "description": "Eleven (portrayed by Millie Bobby Brown[7]) is a telekinetic girl who is the sole match for the creatures of the Upside Down. She later becomes Jim Hopper's adoptive daughter and Mike Wheeler's girlfriend.",
+        "image": "https://media.vogue.es/photos/5d4078c88bb68f0008d541b4/3:4/w_960,h_1280,c_limit/Eleven-16jul17-vogueint-Netflix.jpg"
+      },
+      { 
+        "id": 5, 
+        "name": "Dustin Henderson", 
+        "description": "Dustin Henderson (portrayed by Gaten Matarazzo) only child of Claudia Henderson, is a friend of Mike, Will, and Lucas, is a goofy and quick-witted boy whose cleidocranial dysplasia causes him to lisp. In the Dungeons and Dragons party, Dustin is the Bard and has arguably the most extensive knowledge of the game, particularly the monsters. He has a crush on Nancy, and while both he and Lucas have feelings for Max in season two, Lucas and Max ultimately end up together. He also befriends Steve, who gives him advice on how to make girls like him.",
+        "image": "https://phantom-marca.unidadeditorial.es/167f98f68a425a7f6a1334a1b4bdd77a/assets/multimedia/imagenes/2021/02/16/16134683173053.jpg"
+      },
+      { 
+        "id": 6, 
+        "name": "Lucas Sinclair", 
+        "description":"Lucas (portrayed by Caleb McLaughlin[7]) is the eldest child of Sue and Charles Sinclair, elder brother of Erica, and a friend of Mike, Will, and Dustin. Lucas is wary of Eleven at first, but befriends her later.In high school, Lucas joins the Hellfire Club and the basketball team but struggles to make time for both clubs. At the cemetery, he, along with Dustin and Steve, helps Max escape Vecna and comforts her after she escapes.",
+        "image": "https://i.pinimg.com/474x/af/43/44/af4344497cad89b697b4734e735b978c.jpg"
+      },
+      {
+      "id": 7, 
+      "name": "Nancy Wheeler", 
+      "description": "Nancy Wheeler (portrayed by Natalia Dyer[7]) is the oldest daughter of Karen and Ted Wheeler and the older sister of Mike and Holly. Nancy is something of an outcast at school until Steve Harrington takes an interest in her.Their relationship lasts until the ending of season two when she starts dating Jonathan after a little help from Murray. She is very proficient with firearms, despite a noticeable lack of training or practice. She has been seen using pistols, revolvers, rifles and shotguns.",
+      "image": "https://i.pinimg.com/736x/3b/e3/26/3be32686e0421c6dafbe6bb2d0625ad3.jpg"
+    },
+    { 
+      "id": 8, 
+      "name": "Jonathan Byers", 
+      "description": "Jonathan Byers (portrayed by Charlie Heaton) is the older brother of Will and the oldest son of Joyce. He is shy and reserved, and is considered an outsider at Hawkins High. He is an aspiring photographer, and very close with his mother and brother.",
+      "image": "https://i.pinimg.com/474x/cd/e2/c2/cde2c274d8498c1c4b8d5e9f127edd41.jpg"
+    },
+    {
+        "id": 9, 
+        "name": "Martin Brenner", 
+        "description": "Dr. Martin Brenner (portrayed by Matthew Modine;[9] seasons 1, 4; recurring season 2) referred to as /Papa/ by Eleven and the other children he experimented on, is the head scientist of Hawkins Laboratory and the experiments performed there. He is a callous and manipulative scientist, having abducted Eleven from her mother, Terry Ives, whom he later subjected to electroshock therapy to destroy the woman's mind and thoughts.",
+        "image": "http://pm1.narvii.com/6645/ec249c5abda04e76cb41e2d5fc5995fdd9ab5ae6_00.jpg"
+      },
+      { 
+        "id": 10, 
+        "name": "Will Byers", 
+        "description": "Willam /Will/ Byers (portrayed by Noah Schnapp; season 2 present; recurring season 1) the younger brother of Jonathan and the youngest son of Joyce, is the shy, kind, timid, and often forgotten member of the party. In the group's Dungeons and Dragons party, Will is the wizard, but later occasionally plays the role of Dungeon Master; he is referred to as /Will the Wise/. In season one, he vanishes somewhere near /Mirkwood/ after encountering the monster that escaped through a rift to the /Upside Down/, an alternate dimension discovered by the Hawkins Laboratory scientists.[10] Schnapp was promoted to series regular for the second season, after recurring in the first.[11]",
+        "image": "https://www.nacionflix.com/__export/1654006244626/sites/debate/img/2022/05/31/stranger-things-4-netflix-will-byers-.jpg_987489085.jpg"
+      },
+      {
+        "id": 11, 
+        "name": "Max Mayfield", 
+        "description": "Maxine /Max/ Mayfield (portrayed by Sadie Sink; season 2 present) is Susan Hargrove's biological daughter, Billy's younger stepsister, an avid skateboarder, and the tomboy of the group who catches the attention of Lucas when it becomes known that she has the highest score in Dig Dug.[13] Max is often shown at odds with Billy.",
+        "image": "https://culturacolectiva-cultura-colectiva-prod.cdn.arcpublishing.com/resizer/RQITGjIGEHFibJ59Fy-Ker3149Y=/1024x768/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/WJD24IR27FGLJHVQJ2QXMCJ4KU.jpg"
+      },
+      { 
+        "id": 12, 
+        "name": "Steve Harrington", 
+        "description": "Steve Harrington or Steve /The Hair/ Harrington (portrayed by Joe Keery; season 2–present; recurring season 1) is a popular student at school. He tries to develop a relationship with Nancy and bullies Jonathan, though he comes to regret this.",
+        "image": "https://static.wikia.nocookie.net/strangerthings/images/8/81/Steve_Season_3.jpg/revision/latest?cb=20190427161706&path-prefix=es"
+      },
+      { 
+        "id": 13, 
+        "name": "Billy Hargrove", 
+        "description": "William /Billy/ Hargrove (portrayed by Dacre Montgomery; seasons 2-3; guest season 4) is the careless, rash, and overly protective stepbrother of Max. His own behavior is revealed to be a consequence of the physical abuse he himself is subjected to by his father",
+        "image": "https://img.europapress.es/fotoweb/fotonoticia_20190323122749_1200.jpg"
+    }
+    ]
+  }
