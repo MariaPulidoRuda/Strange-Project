@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 html,body{
     margin:0;
     padding:0;
@@ -16,7 +18,7 @@ p {
 }
 h2 {
     font-size: 4rem;
-    font-family: 'Open Sans';
+
     color: #000;
     margin: 100px 50px;
     letter-spacing: 1.2px;
@@ -26,7 +28,7 @@ h2 {
     
 }
 .character-section {
-    background-image: url("https://www.ericjlugo.com/wp-content/uploads/2016/08/sthings-01.jpg");
+    background-image: url("https://res.cloudinary.com/dujlexijg/image/upload/v1665585169/esto_rejn8q.jpg");
     background-position: 30% 0;
     padding: 120px 50px;
     color: #555;
@@ -39,7 +41,7 @@ h2 {
 }
 
 
-.hero {
+.principal {
     background-image: url('https://www.enjpg.com/img/2020/stranger-things-desktop-4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -106,19 +108,38 @@ h2 {
   }
 
   .seasons-section{
-    background-image: url("https://www.ericjlugo.com/wp-content/uploads/2016/08/sthings-01.jpg");
+    background-image: url("https://res.cloudinary.com/dujlexijg/image/upload/v1665585169/esto_rejn8q.jpg");
     background-position: 30% 0;
     padding: 120px 50px;
+  }
+.seasons-section p {
+    color: #555;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    position: center;
+    margin: 30px 0;
+    padding: 30px 120px;
+
 }
+
 .imgPoster {
-    width: 100%;
+   
+    width: 500px; 
     height: auto;
+    margin: 20px 400px;
+    position: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    z-index: -2;
 }
 .content h2,
 .content h3 {
   font-size: 150%;
   margin: 60px 60px;
   position: center;
+  
 
 }
 
@@ -131,3 +152,23 @@ h2 {
   padding: 30px 120px;
   
 }
+#pagina {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  #contenido {
+    padding-bottom:50px; /* este valor debe ser igual o mayor al alto del pie */
+  }
+  
+  #pie {
+    height:50px;
+    line-height:50px;
+    background:black;
+    color:white;
+    text-align:center;
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+  }

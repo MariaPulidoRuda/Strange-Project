@@ -14,7 +14,7 @@ const printCharacter = (list) => {
   for (const item of list) {
     section.innerHTML += `<h2>${item.name}</h2>`;
     section.innerHTML += `<p>${item.description}</p>`;
-    section.innerHTML += `<img class="imageCharacter" src="${item.image}" width="300px" height="300px"></img>`;
+    section.innerHTML += `<img class="imageCharacter" src="${item.image}"width="300px" height="300px"></img>`;
   }
   const app = document.querySelector("#app");
   cleanPage(app);
