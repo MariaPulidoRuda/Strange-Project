@@ -1,4 +1,4 @@
-export const Nav = () => `
+const Nav = () => `
 
 <nav class="nav">
   <div class="container">
@@ -11,3 +11,4 @@ export const Nav = () => `
 </nav>
 
 `;
+export default Nav

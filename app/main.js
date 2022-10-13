@@ -1,6 +1,6 @@
 import './style.css'
 
-import { Nav } from "./components/Nav/Nav";
+import Nav from "./components/Nav/Nav" 
 import { home } from "./pages/home/home";
 import { seasons } from "./pages/seasons/seaons";
 import { character } from "./pages/character/character";
