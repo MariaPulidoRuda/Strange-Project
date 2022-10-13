@@ -12,7 +12,7 @@ const printSeasons = (list) => {
   section.classList.add("seasons-section");
   for (const item of list) {
     section.innerHTML += `<h2>SEASON ${item.season}</h2>`;
-    section.innerHTML += `<img class="imgPoster" src="${item.poster}"></img>`;
+    section.innerHTML += `<img class="imgPoster" src="${item.poster}">`;
     section.innerHTML += `<h3>Director: ${item.director}</h3>`;
     section.innerHTML += `<h3>${item.date}</h3>`;
     section.innerHTML += `<h3>${item.chapters} chapters</h3>`;
